@@ -297,7 +297,7 @@ B5 PRIMPOL为何在引物合成后、重启前3–5 min解离？它是否随CMG�
 [61] Chistol Lab News（2026-09-14）: Benjamin, Jinho Win 'Best Talk' and 'Best Paper' Awards（2026 CSB系retreat）. https://chistol.stanford.edu/benjamin-and-jinho-win-best-talk-and-best-paper-awards-at-the-2026-csb-department-retreat/
 [62] Chistol Laboratory People（Park背景/家乡Gwangju/既往Cas9单分子方向；alumni "Elena Blanco, visiting scholar fall 2021"）. https://chistol.stanford.edu/people/
 [63] Chistol Lab News（2022-12-01）: Dean's Fellowship Awarded to Jinho's Research（证实其时已在组）. https://chistol.stanford.edu/deans-fellowship-awarded-to-jinhos-research/
-[64] 基准综述（用户提供）: report_primpol_background_zh.md（%USERPROFILE%\Downloads\；检索截止2026-11-13；32篇关键文献证据索引+配套primpol_key_studies.csv）。用作历史叙述与训练关系的对照来源；本轮未独立复核项已在文中逐项标注"参考报告提供"。
+[64] 基准综述（用户提供）: report_primpol_background_zh.md（检索截止2026-11-13；32篇关键文献证据索引+配套primpol_key_studies.csv）。用作历史叙述与训练关系的对照来源；本轮未独立复核项已在文中逐项标注"参考报告提供"。
 
 ---
 

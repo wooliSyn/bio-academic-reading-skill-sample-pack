@@ -1,6 +1,6 @@
 # PRIMPOL 背景解读：技能差距分析与回归报告
 
-**比对对象**：参考报告 `%USERPROFILE%\Downloads\report_primpol_background_zh.md`（检索截止 2026-11-13，32 篇关键文献证据索引）vs 本会话产出《The molecular basis of replication fork restart via repriming by PRIMPOL_背景解读.md》（v1.1 技能产出）与配套《..._文献解读.md》（v6.1 技能产出）。
+**比对对象**：参考报告 `report_primpol_background_zh.md`（用户提供的基准；检索截止 2026-11-13，32 篇关键文献证据索引）vs 本会话产出《The molecular basis of replication fork restart via repriming by PRIMPOL_背景解读.md》（v1.1 技能产出）与配套《..._文献解读.md》（v6.1 技能产出）。
 **任务链**：分析不足 → 生成本报告 → 修改 skill → 回归调用更新后 skill 修订两份解读 → 回归比对（§4–§6，回归执行后追加）。
 **方法**：逐节对照参考报告与两份产出；对参考报告提出的每一项新事实做独立外部核证（机构页/学位论文记录/ EuropePMC core / RCSB / 实验室官网），核证结果决定差距定性（"我错"/"我漏"/"参考亦未证"）。
 

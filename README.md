@@ -48,7 +48,7 @@ cp -r skills/* <技能目录>/     # 路径以你的 AI 为准
 6. 盲跑 UNC13A → 对照 UNC13A 标杆 → 生成 `gap-analysis-round2.md`。
 7. 达标 → 收敛；仍不足 → 分析问题 → 继续改技能 → 再回归（每轮生成 `gap-analysis-roundN.md`）。
 
-**升级**：连续多轮仍不达标，或差距源于现有标杆未覆盖的维度 → **向用户请求更多标杆**（说明缺哪类样例 / 哪类论文）。
+**升级**：连续多轮仍不达标，或差距源于现有标杆未覆盖的维度 → **向用户请求更多标杆**（说明缺哪类样例 / 哪类论文）。`samples/` 会随精读案例持续更新：目前除 PRIMPOL（训练）与 UNC13A（验证）外，已扩充核孔 FG 屏障（*Nature*）与基底神经节单细胞多组学图谱（*Cell*）两对标杆，可作为第三轮起的训练/验证素材（源 PDF 的 DOI 见 `papers/README.md`）。
 
 **铁律**：每次回归调用都必须生成一份分析文件留痕；盲跑先于对标；改技能按本 AI 理解而非照抄。完整规程见 `skill-regression-training/SKILL.md` + `reference.md`；`gap-report-example.md` 是历史实例。
 
@@ -66,11 +66,13 @@ skill-sample-pack/
         ├── requirement-memory.md                 # ★需求记忆（任务需求/避坑/完成度，非个人）
         ├── gap-report-example.md                 # 自训练历史实例
         ├── papers/                               # ★源 PDF 下载指引（盲跑用）
-        │   └── README.md                         # 3 篇论文 DOI + 放置文件名（PDF 因版权不随包分发）
+        │   └── README.md                         # 5 篇论文 DOI + 放置文件名（PDF 因版权不随包分发）
         └── samples/
-            ├── ...PRIMPOL_文献解读.md + _背景解读.md   # ★标杆对
+            ├── ...PRIMPOL_文献解读.md + _背景解读.md   # ★标杆对（训练篇）
             ├── PRIMPOL_背景解读_companionFig4.png      # 仅 figure+图注（已裁剪）
-            └── ...UNC13A_文献解读.md + _背景解读.md    # 验证篇标杆
+            ├── ...UNC13A_文献解读.md + _背景解读.md    # 验证篇标杆
+            ├── ...FG barrier..._文献解读.md + _背景解读.md        # 扩充标杆对（*Nature* 2026，核孔 FG 屏障）
+            └── ...basal ganglia atlas..._文献解读.md + _背景解读.md # 扩充标杆对（*Cell* 2026，单细胞多组学图谱）
 ```
 
 ## 截图 / 嵌图规范（尤其注意）

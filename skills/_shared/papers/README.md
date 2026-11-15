@@ -7,6 +7,8 @@
 | 训练篇主文（含 ED） | The molecular basis of replication fork restart via repriming by PRIMPOL（Park et al., *Nature*） | [10.1038/s41586-026-11276-y](https://doi.org/10.1038/s41586-026-11276-y) | `The molecular basis of replication fork restart via repriming by PRIMPOL.pdf` |
 | 训练篇 companion | Human replisomes direct a dedicated leading-strand primase for fork restart（Polo Rivera et al., *Nature*） | [10.1038/s41586-026-11204-0](https://doi.org/10.1038/s41586-026-11204-0) | `Human replisomes direct a dedicated leading-strand primase for fork restart.pdf` |
 | 验证篇 | UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss（Keuss, Harley et al., *Nature*） | [10.1038/s41586-026-11256-2](https://doi.org/10.1038/s41586-026-11256-2) | `UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss.pdf` |
+| 扩充标杆（核孔/生物物理） | Glycosylation and importins liquefy the FG barrier in live nuclear pores（Yu, Heidari et al., Lemke & Tang, *Nature*） | [10.1038/s41586-026-11258-0](https://doi.org/10.1038/s41586-026-11258-0) | `Glycosylation and importins liquefy the FG barrier in live nuclear pores.pdf` |
+| 扩充标杆（单细胞多组学/神经） | Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia（Ding, Klein et al., Ecker/Behrens/Ren, *Cell* 189:7386–7405） | [10.1016/j.cell.2026.10.019](https://doi.org/10.1016/j.cell.2026.10.019) | `Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia.pdf` |
 
 注意：
 
